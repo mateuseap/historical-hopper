@@ -12921,7 +12921,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   totalScore: 0
-  setScore: 240
+  setScore: 130
   scoreText: {fileID: 528321965}
   gameOver: {fileID: 959091448}
   gameOverSoundEffect: {fileID: 8300000, guid: 6d8925d7f621b324892bc14646b7eb94, type: 3}
