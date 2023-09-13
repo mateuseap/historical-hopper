@@ -13170,7 +13170,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   totalScore: 0
-  setScore: 150
+  setScore: 270
   scoreText: {fileID: 2136983185}
   gameOver: {fileID: 1336571320}
   gameOverSoundEffect: {fileID: 8300000, guid: 6d8925d7f621b324892bc14646b7eb94, type: 3}
@@ -17194,7 +17194,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8749422000662596961, guid: bb80622f2ab0ff54483382bd819b0050, type: 3}
       propertyPath: levelName
-      value: Level3
+      value: Level5
       objectReference: {fileID: 0}
     - target: {fileID: 8749422000662596961, guid: bb80622f2ab0ff54483382bd819b0050, type: 3}
       propertyPath: nextLevelSoundEffect
