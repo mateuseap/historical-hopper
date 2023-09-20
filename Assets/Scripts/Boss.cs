@@ -63,7 +63,7 @@ public class Boss:MonoBehaviour {
         animation.SetBool("attack", false);
         animation.SetBool("run", true);
 
-        rig.MovePosition((Vector2)transform.position + (direction * moveSpeed * Time.deltaTime));
+        rig.MovePosition((Vector2)transform.position + (direction * moveSpeed * Time.fixedDeltaTime)); // Use Time.fixedDeltaTime here
     }
 
     private void AttackPlayer() {

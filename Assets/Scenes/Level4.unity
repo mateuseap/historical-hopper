@@ -12022,7 +12022,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   boxCollider2D: {fileID: 1782087082}
   circleCollider2D: {fileID: 1782087081}
-  moveSpeed: 13
+  moveSpeed: 4
   attackRange: 1.15
 --- !u!1 &1787304585
 GameObject:

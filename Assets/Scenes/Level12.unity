@@ -11206,7 +11206,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   boxCollider2D: {fileID: 1363915524}
   circleCollider2D: {fileID: 1363915522}
-  moveSpeed: 15
+  moveSpeed: 4
   attackRange: 1.5
 --- !u!1001 &1365983111
 PrefabInstance:
